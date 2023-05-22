@@ -12,3 +12,4 @@ print('A soma de 1 a', N, 'é', Soma1aN(N))
 print('teste de testes')
 #tudo bom?
 print('atividade um tanto confusa')
+#Lembra de estudar
