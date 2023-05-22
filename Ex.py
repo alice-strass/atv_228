@@ -7,3 +7,4 @@ def Soma1aN(N):
 # Uso da função
 N=int(input('Entre com o valor de N: '))
 print('A soma de 1 a', N, 'é', Soma1aN(N))
+#KASSSSSSINOOOOOOOO
